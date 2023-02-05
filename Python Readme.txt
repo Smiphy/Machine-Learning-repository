@@ -1,10 +1,5 @@
 Date: Wed Dec 14 20:24:44 2022
 
-Student Name: Oluwatobi Jennifer Adelotan 
-Student ID:   @00688032
-
-===Oluwatobi Jennifer Adelotan Python script and Azure===
-
 Contributor: Oluwatobi
 
 ==System Minimum requirements==
